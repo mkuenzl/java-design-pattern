@@ -1,6 +1,7 @@
 import java.util.Date;
 
-public class Main {
+public class BuilderMain
+{
     public static void main(String[] args) {
         Task task = new TaskBuilder(1)
                 .setSummary("summary")

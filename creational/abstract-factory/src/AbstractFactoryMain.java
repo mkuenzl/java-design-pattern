@@ -1,4 +1,5 @@
-public class Main {
+public class AbstractFactoryMain
+{
     public static void main(String[] args) {
         AbstractAnimalFactory airAnimalFactory = AnimalFactoryProducer.getFactory("AIR");
         Animal bird = airAnimalFactory.getAnimal("BIRD");
