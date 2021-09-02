@@ -7,8 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/structural/bridge/bridge.iml" filepath="$PROJECT_DIR$/structural/bridge/bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational/builder/builder.iml" filepath="$PROJECT_DIR$/creational/builder/builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/structural/composite/composite.iml" filepath="$PROJECT_DIR$/structural/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structural/decorator/decorator.iml" filepath="$PROJECT_DIR$/structural/decorator/decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/structural/facade/facade.iml" filepath="$PROJECT_DIR$/structural/facade/facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational/factory/factory.iml" filepath="$PROJECT_DIR$/creational/factory/factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/iterator/iterator.iml" filepath="$PROJECT_DIR$/behavioral/iterator/iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-design-pattern.iml" filepath="$PROJECT_DIR$/.idea/java-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational/prototype/prototype.iml" filepath="$PROJECT_DIR$/creational/prototype/prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational/singleton/singleton.iml" filepath="$PROJECT_DIR$/creational/singleton/singleton.iml" />
